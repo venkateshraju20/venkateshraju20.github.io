@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.container {
+  display: flex;
+  gap: 3rem;
+  background: white;
+  padding: 10px;
+  margin: 20rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.my-name {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.left img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.right {
+  margin-left: 20px;
+}
+
+.links a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #0073b1;
+  font-weight: bold;
+}
