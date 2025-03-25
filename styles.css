@@ -56,9 +56,9 @@ body {
 }
 
 .links a:nth-child(1) {
-  background-color: #0077b5; /* LinkedIn Blue */
+  background-color: #0077b5;
 }
 
 .links a:nth-child(2) {
-  background-color: #333; /* GitHub Black */
+  background-color: #333;
 }
